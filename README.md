@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="vihan%20chatbot.jpeg" alt="Chatbot View" width="400" height="480">
+  <img src="vihan%20chatbot.jpeg" alt="Chatbot View" width="400" height="400">
 </p>
 
 ## Overview
@@ -15,9 +15,6 @@
 
 - **Interactive Menu**: Users can easily navigate through a menu of options to select the assistance they require, such as EV model information, Pricing, Battery info and more.
 
-- **Real-time Chat**: The chatbot facilitates real-time conversations with users, providing instant responses to their queries and requests.
-
-
 - **EV Model Information**: Detailed information about the company's electric vehicle models, including specifications, pricing, and availability.
 
 - **Contact Support**: Users can seamlessly connect with customer support representatives when needed, ensuring a personalized and supportive customer service experience.
@@ -28,6 +25,22 @@
 
 - **On-road Service Support**: In case of on-road issues or emergencies, users can use the chatbot to request immediate assistance, ensuring their safety and peace of mind.
 
-These additional features enhance the versatility of our chatbot, providing comprehensive support for users at various stages of their electric vehicle ownership journey.
+ These additional features enhance the versatility of our chatbot, providing comprehensive support for users at 
+  various stages of their electric vehicle ownership journey.
+
+
+
+  ## Technologies Used
+
+- **HTML**: The foundation for the chatbot's structure and content presentation. HTML is used to create the basic layout and elements of the chatbot's user interface.
+
+- **CSS**: Responsible for styling and ensuring an appealing and user-friendly interface. CSS is used to apply styles, such as colors, fonts, and layout, to make the chatbot visually engaging.
+
+- **JavaScript**: Powers the chatbot's interactive features, including menu navigation and real-time chat functionality. JavaScript adds interactivity to the chatbot, making it dynamic and responsive to user input.
+
+- **PHP**: Used for server-side scripting, handling dynamic content, and interacting with the database. PHP enables server-side processing, allowing the chatbot to retrieve and store data, handle user requests, and perform server-side tasks.
+
+- **WAMP Server**: Provides the local web server environment for developing and testing the chatbot. WAMP (Windows, Apache, MySQL, PHP) Server creates a local server environment on your development machine, facilitating the testing and development of web applications like the chatbot.
+
 
 
