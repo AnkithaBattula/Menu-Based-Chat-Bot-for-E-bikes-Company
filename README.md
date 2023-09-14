@@ -32,7 +32,7 @@
 
  ## Technologies Used
 
-- <strong>HTML:</strong> The foundation for the chatbot's structure and content presentation. HTML is used to create the basic layout and elements of the chatbot's user interface.
+<strong>HTML:</strong> The foundation for the chatbot's structure and content presentation. HTML is used to create the basic layout and elements of the chatbot's user interface.
 
 - <strong>CSS:</strong> Responsible for styling and ensuring an appealing and user-friendly interface. CSS is used to apply styles, such as colors, fonts, and layout, to make the chatbot visually engaging.
 
