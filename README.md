@@ -34,13 +34,13 @@
 
 <strong>HTML:</strong> The foundation for the chatbot's structure and content presentation. HTML is used to create the basic layout and elements of the chatbot's user interface.
 
-- <strong>CSS:</strong> Responsible for styling and ensuring an appealing and user-friendly interface. CSS is used to apply styles, such as colors, fonts, and layout, to make the chatbot visually engaging.
+<strong>CSS:</strong> Responsible for styling and ensuring an appealing and user-friendly interface. CSS is used to apply styles, such as colors, fonts, and layout, to make the chatbot visually engaging.
 
-- <strong>JavaScript:</strong> Powers the chatbot's interactive features, including menu navigation and real-time chat functionality. JavaScript adds interactivity to the chatbot, making it dynamic and responsive to user input.
+ <strong>JavaScript:</strong> Powers the chatbot's interactive features, including menu navigation and real-time chat functionality. JavaScript adds interactivity to the chatbot, making it dynamic and responsive to user input.
 
-- <strong>PHP:</strong> Used for server-side scripting, handling dynamic content, and interacting with the database. PHP enables server-side processing, allowing the chatbot to retrieve and store data, handle user requests, and perform server-side tasks.
+ <strong>PHP:</strong> Used for server-side scripting, handling dynamic content, and interacting with the database. PHP enables server-side processing, allowing the chatbot to retrieve and store data, handle user requests, and perform server-side tasks.
 
-- <strong>WAMP Server:</strong> Provides the local web server environment for developing and testing the chatbot. WAMP (Windows, Apache, MySQL, PHP) Server creates a local server environment on your development machine, facilitating the testing and development of web applications like the chatbot.
+<strong>WAMP Server:</strong> Provides the local web server environment for developing and testing the chatbot. WAMP (Windows, Apache, MySQL, PHP) Server creates a local server environment on your development machine, facilitating the testing and development of web applications like the chatbot.
 
 
 
