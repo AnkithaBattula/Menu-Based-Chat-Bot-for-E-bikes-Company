@@ -2,8 +2,9 @@
 ## Electric Vehicle Customer Service Chatbot 
 
 
-
-![chatbotview!](vihaan%20view.jpeg)
+<p align="center">
+  <img src="vihan%20view.jpeg" alt="Chatbot View" width="500">
+</p>
 
 
 #### Overview
