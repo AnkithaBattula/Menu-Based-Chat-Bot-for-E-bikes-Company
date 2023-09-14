@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="vihan%20chatbot.jpeg" alt="Chatbot View" width="400" height="600">
+  <img src="vihan%20chatbot.jpeg" alt="Chatbot View" width="400" height="550">
 </p>
 
 
